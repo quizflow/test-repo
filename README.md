@@ -1,4 +1,12 @@
-# test-repo
+---
+
+title : Api Docs
+author : Mihir Paldhikar
+updated : Today
+
+---
+
+*Here is an example*
 
 * LOL
 
